@@ -1,0 +1,3 @@
+[submodule "modules/demo"]
+	path = modules/demo
+	url = https://github.com/nhthanhktpm2211018-glitch/git-submodule-demo.git
